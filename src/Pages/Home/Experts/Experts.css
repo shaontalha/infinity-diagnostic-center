@@ -1,0 +1,11 @@
+.expert-detail{
+    align-items: center;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 5px;
+    text-align: center;
+    
+    
+
+}
+

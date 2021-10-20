@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Pathology lab",
+        "charge": 2000,
+        "description": "We have the best pathologists and medical technologists for any kind of pathology test at a very reasonable rate",
+        "img": "https://i.ibb.co/dB7CrZ9/pathology-287x287.jpg"
+    },
+    {
+        "id": 2,
+        "name": "ER",
+        "charge": 5000,
+        "description": "We have the latest and modern ER machine and medical technologists for any kind of er test at a very reasonable rate",
+        "img": "https://i.ibb.co/Wss8nF1/icu.jpg"
+    },
+    {
+        "id": 3,
+        "name": "EMR",
+        "charge": 2000,
+        "description": "We have the latest and modern EMR machine and medical technologists for any kind of test at a very reasonable rate",
+        "img": "https://i.ibb.co/q1fTRXY/er.jpg"
+    },
+    {
+        "id": 4,
+        "name": "ICU",
+        "charge": 22000,
+        "description": "We have the best ICU service and medical technologists for any kind of test at a very reasonable rate",
+        "img": "https://i.ibb.co/c874ZpK/emr.jpg"
+    },
+    {
+        "id": 5,
+        "name": "X-Ray",
+        "charge": 1000,
+        "description": "We have the latest and modern Xray machine and medical technologists for any kind of test at a very reasonable rate",
+        "img": "https://i.ibb.co/grPShJB/xray.jpg"
+    },
+    {
+        "id": 6,
+        "name": "ECG",
+        "charge": 20000,
+        "description": "We have the latest and modern ECG machine and medical technologists for any kind of test at a very reasonable rate",
+        "img": "https://i.ibb.co/PY71sLn/digital-3-6-channel-ecg-dp2030-287x287.jpg"
+    }
+]

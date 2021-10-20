@@ -1,0 +1,16 @@
+.service-detail{
+    background-color: rgb(0, 0, 0);
+    padding: 15px;
+    border-radius: 15px;
+    color: wheat;
+    margin-left: 55px;
+    margin-right: 55px;
+    text-align: center;
+    
+}
+.service-detail button{
+    background-color: #e7e727;
+    height: 55px;
+    font-weight: bold;
+    border-radius: 15px;
+}
